@@ -1,4 +1,4 @@
-# slothOrCroissant
+# Is it a Sloth or a Chocolate Croissant?
 Convolutional Neural Network (CNN) that answers the age-old question, "Sloth or Chocolate Croissant?"
 
 <p align="center">
